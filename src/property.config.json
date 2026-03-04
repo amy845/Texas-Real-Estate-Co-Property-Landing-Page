@@ -1,0 +1,50 @@
+{
+  "address": "1234 Luxury Lane, Austin, TX 78704",
+  "stats": {
+    "beds": 4,
+    "baths": 5,
+    "size": "4,500 sq ft",
+    "price": "$3,250,000"
+  },
+  "headline": "Modern Elegance in the Heart of Austin",
+  "cta": {
+    "text": "Schedule a Private Viewing",
+    "link": "https://forms.google.com/"
+  },
+  "images": {
+    "hero": "https://picsum.photos/seed/luxuryhero/1920/1080",
+    "gallery": [
+      "https://picsum.photos/seed/luxurygal1/800/600",
+      "https://picsum.photos/seed/luxurygal2/800/600",
+      "https://picsum.photos/seed/luxurygal3/800/600",
+      "https://picsum.photos/seed/luxurygal4/800/600",
+      "https://picsum.photos/seed/luxurygal5/800/600",
+      "https://picsum.photos/seed/luxurygal6/800/600"
+    ]
+  },
+  "videoTour": {
+    "enabled": true,
+    "previewImage": "https://picsum.photos/seed/luxuryvid/1920/1080",
+    "buttonText": "Watch Video Tour",
+    "link": "https://youtube.com/"
+  },
+  "highlights": [
+    "Custom Italian cabinetry and Wolf/Sub-Zero appliances",
+    "Primary suite with spa-like bath and dual walk-in closets",
+    "Resort-style pool with outdoor kitchen and cabana",
+    "Smart home automation system throughout",
+    "Three-car climate-controlled garage",
+    "Wide-plank European oak flooring"
+  ],
+  "agent": {
+    "name": "Jane Doe",
+    "title": "Luxury Property Specialist",
+    "phone": "(512) 555-0198",
+    "email": "jane.doe@txrealestateco.com",
+    "image": "https://picsum.photos/seed/agentjane/400/400"
+  },
+  "footer": {
+    "brokerage": "Texas Real Estate Co. (TXREC)",
+    "compliance": "Equal Housing Opportunity. Information deemed reliable but not guaranteed."
+  }
+}
