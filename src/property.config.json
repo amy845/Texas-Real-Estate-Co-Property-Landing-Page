@@ -1,9 +1,9 @@
 {
-  "address": "1234 Luxury Lane, Austin, TX 78704",
+  "address": "1141 Saint Peters, Prosper, TX",
   "stats": {
     "beds": 4,
     "baths": 5,
-    "size": "4,500 sq ft",
+    "size": "4,579 sq ft",
     "price": "$3,250,000"
   },
   "headline": "Modern Elegance in the Heart of Austin",
@@ -37,10 +37,10 @@
     "Wide-plank European oak flooring"
   ],
   "agent": {
-    "name": "Jane Doe",
-    "title": "Luxury Property Specialist",
-    "phone": "(512) 555-0198",
-    "email": "jane.doe@txrealestateco.com",
+    "name": "Amy Sledge",
+    "title": "Broker | Accredited Luxury Specialist",
+    "phone": "(469) 536-1983",
+    "email": "amy@txrealestateco.com",
     "image": "https://picsum.photos/seed/agentjane/400/400"
   },
   "footer": {
